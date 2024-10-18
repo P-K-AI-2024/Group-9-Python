@@ -130,5 +130,5 @@ def menu():
             print("Invalid choice. Please select a valid option.")
 
 
-#Program Start
+#main menu
 menu()
